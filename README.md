@@ -40,14 +40,7 @@ Key SQL Queries
 6. Hashtag and content type analysis
 
 ---
-
-##Report
-
-Final analysis and key recommendations are presented in the [`report/Instagram User Analytics_Report.pdf`](./report/Instagram User Analytics_Report.pdf).
-
----
-
 ##Contributions
 
-Made with ❤️ by **Sai Deekshith V**
+Made by **Sai Deekshith V**
 For portfolio, learning, and showcasing SQL analytics for real-world use cases.
