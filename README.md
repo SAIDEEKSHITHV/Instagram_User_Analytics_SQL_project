@@ -40,7 +40,7 @@ Key SQL Queries
 6. Hashtag and content type analysis
 
 ---
-##Contributions
+Contributions
 
 Made by **Sai Deekshith V**
 For portfolio, learning, and showcasing SQL analytics for real-world use cases.
